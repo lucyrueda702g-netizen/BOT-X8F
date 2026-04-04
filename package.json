@@ -1,0 +1,13 @@
+{
+  "name": "mxykel-bot",
+  "version": "1.0.0",
+  "description": "Bot de Discord con bienvenidas, despedidas y 50+ comandos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
